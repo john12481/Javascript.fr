@@ -85,4 +85,4 @@ console.log(isStudent && hasPaid);
 console.log(isStudent || hasPaid);
 
 let isHungry = true;
-console.log(isHungry);
+console.log(!isHungry);
